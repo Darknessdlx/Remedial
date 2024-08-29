@@ -1,5 +1,5 @@
 # Remedial
 
-No me salio con next y lo hice con vite;(. igual es react;(
+Ya pude hacerlo con next y mucho mas facil:(. Esta en la rama 'rama-final'
 
-No pude unir las ramas haha, el demas codigo esta en master.
+Ojala me lo tome en cuenta:(
